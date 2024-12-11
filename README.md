@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on Open Ai **Voice Assistant**
 
-- 👨‍💻 All of my projects are available at [ayprotfolio.web.app](ayprotfolio.web.app)
+- 👨‍💻 All of my projects are available at [https://abhayprotfolio.web.app/](abhayprotfolio.web.app)
 
 - 📫 How to reach me **abhaystark77@gmail.com**
 
